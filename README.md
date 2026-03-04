@@ -2,7 +2,9 @@
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/cf32d250-9f48-4f43-ba71-eb2c2a3b095d)
 
+---
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <!--
 **Zyrc0de/Zyrc0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
